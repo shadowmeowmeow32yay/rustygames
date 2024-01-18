@@ -570,8 +570,7 @@ body {
   font-weight: var(--weight-semiBold);
   text-transform: uppercase;
   height: 30px;
-  line-height: 32px;
-  padding-inline: 20px;
+  
   clip-path: var(--clip-path-3);
 }
 
@@ -582,7 +581,7 @@ body {
 
 .news-card .card-meta-list {
   flex-wrap: wrap;
-  gap: 5px 10px;
+  
 }
 
 .news-card .card-meta-item { gap: 5px; }
@@ -600,7 +599,7 @@ body {
 .news-card .h3 { margin-block: 15px 10px; }
 
 .news-card .card-title {
-  display: inline;
+  
   background-image: linear-gradient(to left, var(--bg-purple), var(--bg-purple));
   background-repeat: no-repeat;
   background-position: left bottom;
@@ -613,7 +612,7 @@ body {
 .news-card .link {
   max-width: max-content;
   margin-block-start: 15px;
-  padding-inline-start: 30px;
+  
   transition: var(--transition-1);
 }
 
