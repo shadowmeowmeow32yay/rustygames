@@ -22,7 +22,7 @@
 
   /* background color */
   --bg-black: black ;
-  --bg-purple-alpha-30: hsla(267, 100%, 63%, 0.3);
+  --bg-purple-alpha-30: lightblue (267, 100%, 63%, 0.3);
   --bg-dark-purple: hsla(279, 42%, 9%, 1);
   --bg-oxford-blue: hsla(240, 63%, 13%, 1);
   --bg-oxford-blue-alpha-95: hsla(240, 63%, 13%, 0.95);
