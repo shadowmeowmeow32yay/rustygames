@@ -257,7 +257,7 @@ body {
   left: var(--left, 50%);
   width: 250%;
   padding-block-end: 250%;
-  background-color: var(--bg-purple);
+  background-color: var(--bg-light-blue);
   transform: translate(-50%, -50%) scale(0);
   border-radius: var(--radius-circle);
   z-index: -1;
@@ -277,7 +277,7 @@ body {
 
 .section-title .span {
   display: inline;
-  color: var(--text-purple);
+  color: var(--text-lightblue);
 }
 
 .section-text {
@@ -293,7 +293,7 @@ body {
 }
 
 .img-holder {
-  background-color: var(--bg-purple);
+  background-color: var(--bg-light-blue);
   aspect-ratio: var(--width) / var(--height);
   overflow: hidden;
 }
